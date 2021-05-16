@@ -20,5 +20,7 @@ To implement:
 
 com.github.myerstechnologies:MP4-Extractor:Extractor:v1
 
+or download/clone the project, and add the files into you app package.
+
 
 For more details for use, check out the app exemple in this repo
