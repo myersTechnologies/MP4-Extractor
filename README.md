@@ -18,6 +18,7 @@ gomo.to
 
 To implement:
 
+com.github.myerstechnologies:MP4-Extractor:Extractor:v1
 
 
 For more details for use, check out the app exemple in this repo
